@@ -5,13 +5,10 @@ title: Volodymyr Repalo
 Software engineer with **20+ years of professional experience**, including **11+ years specializing in Magento / Adobe Commerce development**. Strong expertise in PHP, JavaScript, HTML/CSS, and modern web development, with additional experience in Laravel. I build web applications and e-commerce functionality with PHP, JavaScript, and CSS, combining backend development with practical, responsive interfaces.
 
 ## My contacts
-+38 067 532 07 22
-
-E-mail: [coder301@gmail.com](mailto:coder301@gmail.com)
-
-[LinkedIn](https://www.linkedin.com/in/volodymyr-repalo-6840b0284)
-
-[Telegram](https://t.me/RepaloVV)
++38 067 532 07 22  
+E-mail: [coder301@gmail.com](mailto:coder301@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/volodymyr-repalo-6840b0284)  
+[Telegram](https://t.me/RepaloVV)  
 [GitHub](https://github.com/volodymyrrepalo)
 
 ## Featured projects
