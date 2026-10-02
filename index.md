@@ -16,7 +16,7 @@ E-mail: [coder301@gmail.com](mailto:coder301@gmail.com)
 This profile brings together my Laravel demo application and custom Magento 2 modules.
 
 ---
-### Laravel — Mushroom Glades
+### **Laravel — Mushroom Glades**
 
 A responsive, mobile-first field journal for mushroom foragers. Users can keep a private map of foraging locations, add notes, search saved spots, and manage favorites.
 
@@ -28,7 +28,7 @@ A responsive, mobile-first field journal for mushroom foragers. Users can keep a
 [View repository](https://github.com/volodymyrrepalo/laravel-portfolio-demo) · [Try the live demo](https://mushroomglades.infinityfree.io/)
 
 ---
-### Magento 2 — Config Locker
+### **Magento 2 — Config Locker**
 
 An admin tool for locking selected configuration values in a separate deployment configuration file. It helps staging and local environments retain their own settings after a production database import.
 
@@ -40,7 +40,7 @@ An admin tool for locking selected configuration values in a separate deployment
 [View repository and screenshots](https://github.com/volodymyrrepalo/magento2-config-locker)
 
 ---
-### Magento 2 — Alt Text Generator
+### **Magento 2 — Alt Text Generator**
 
 An admin tool that identifies images with missing alternative text in product descriptions, CMS pages, and CMS blocks, then generates descriptions through an OpenAI integration.
 
