@@ -12,6 +12,7 @@ E-mail: [coder301@gmail.com](mailto:coder301@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/volodymyr-repalo-6840b0284)
 
 [Telegram](https://t.me/RepaloVV)
+[GitHub](https://github.com/volodymyrrepalo)
 
 ## Featured projects
 
@@ -58,14 +59,15 @@ An admin tool that identifies images with missing alternative text in product de
 
 | Area | Technologies and tools |
 | --- | --- |
-| E-commerce | Magento 2 / Adobe Commerce |
-| Backend | PHP, Laravel, REST API, GraphQL, MVC, CRUD |
+| E-commerce | Magento 1, Magento 2 / Adobe Commerce |
+| Backend | PHP, Laravel, WordPress, REST API, GraphQL, MVC, CRUD |
 | Frontend | JavaScript, CSS, Knockout.js, jQuery, Livewire, Tailwind CSS |
-| Databases | MySQL, Redis |
+| Databases | MySQL, MariaDB, Redis, OpenSearch |
 | Development tools | Composer, Docker, Lando, Warden, Linux, PhpStorm |
 | Version control | Git, GitHub |
 | API development and testing | Postman, Insomnia |
-| Web servers | Nginx, Apache, Varnish |
+| Web servers & Reverse Proxies | Nginx, Apache, Varnish |
+| Testing | PHPUnit, Integration Testing |
 | AI-assisted development | Codex, Claude, Gemini |
 
 I use AI tools to support development, with responsibility for understanding, reviewing, and validating the resulting code.
