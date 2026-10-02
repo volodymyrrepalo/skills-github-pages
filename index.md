@@ -4,8 +4,6 @@ title: Volodymyr Repalo
 
 ## About me
 
-**Full-Stack PHP Developer | Laravel & Magento 2 / Adobe Commerce**
-
 Software engineer with **20+ years of professional experience**, including **11+ years specializing in Magento / Adobe Commerce development**. Strong expertise in PHP, JavaScript, HTML/CSS, and modern web development, with additional experience in Laravel. I build web applications and e-commerce functionality with PHP, JavaScript, and CSS, combining backend development with practical, responsive interfaces.
 
 This profile brings together my Laravel demo application and custom Magento 2 modules.
