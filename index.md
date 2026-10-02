@@ -59,7 +59,7 @@ An admin tool that identifies images with missing alternative text in product de
 | E-commerce | Magento 1, Magento 2 / Adobe Commerce |
 | Backend | PHP, Laravel, WordPress, REST API, GraphQL, MVC, CRUD |
 | Frontend | JavaScript, CSS, Knockout.js, jQuery, Livewire, Tailwind CSS |
-| Databases | MySQL, MariaDB, Redis, OpenSearch |
+| Databases & Storage | MySQL, MariaDB, Redis, OpenSearch |
 | Development tools | Composer, Docker, Lando, Warden, Linux, PhpStorm |
 | Version control | Git, GitHub |
 | API development and testing | Postman, Insomnia |
